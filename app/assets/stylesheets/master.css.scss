@@ -42,3 +42,10 @@ body {
   border-radius: 0;
   background-color: #2a2b2b;
 }
+
+.field_with_errors {
+  color: #ff3333;
+  background-color: #ffeeee;
+  border-radius: 3px;
+  padding: 8px;
+}
