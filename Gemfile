@@ -48,3 +48,7 @@ gem 'rails_12factor', group: :production
 gem 'bootstrap-sass', '~> 3.3.5.1'
 gem 'sprockets', '2.11.0'
 gem 'sass-rails'
+
+# Add infinite scrolling
+gem 'will_paginate', '~> 3.0.5'
+gem 'bootstrap-will_paginate', '~> 0.0.10'
