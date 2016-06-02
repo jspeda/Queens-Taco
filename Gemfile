@@ -55,3 +55,6 @@ gem 'bootstrap-will_paginate', '~> 0.0.10'
 
 # Add simple_form
 gem 'simple_form'
+
+# Add devise
+gem 'devise', '>= 3.2.4'
