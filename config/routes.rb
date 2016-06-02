@@ -1,5 +1,5 @@
 Nomster::Application.routes.draw do
-resources :places, only: [:index]
+resources :places
 root 'places#index'
 
 
