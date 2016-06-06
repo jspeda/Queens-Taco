@@ -64,3 +64,6 @@ gem "geocoder", "1.3.4"
 
 # Add figaro
 gem "figaro", ">=1.0.0"
+
+# Add CarrierWave
+gem 'carrierwave'

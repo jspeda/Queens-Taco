@@ -1,9 +1,11 @@
 Nomster::Application.routes.draw do
   devise_for :users
+  root 'places#index'
 resources :places do
-  resources :comments, only: :create
+  resources :comments, :photos, only: :create
+
 end
-root 'places#index'
+
 
 
 
