@@ -67,3 +67,6 @@ gem "figaro", ">=1.0.0"
 
 # Add CarrierWave
 gem 'carrierwave'
+
+# Add fog
+gem 'fog'
