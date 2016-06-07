@@ -23,7 +23,7 @@ body {
   background: url('cream_pixels.png');
   /*font-family: Constantia, "Lucida Bright", Lucidabright, "Lucida Serif", Lucida, "DejaVu Serif", "Bitstream Vera Serif", "Liberation Serif", Georgia, serif;
 */
-  font-family: 'Asap';
+  font-family: 'Asap', sans-serif;
   }
 
 .navbar.navbar-inverse {
@@ -35,7 +35,7 @@ body {
 
 .navbar-inverse .navbar-brand {
   color: #43bf4b;
-  font-family: "kaushan_scriptregular";
+  font-family: "kaushan_scriptregular", sans-serif;
   font-size: 26px;
 }
 
@@ -109,8 +109,9 @@ blockquote p {
     line-height: 1;
 }
 
+
 .carousel-caption {
-  font-family: 'Hind', sans-serif;
+  font-family: 'kaushan_scriptregular';
   font-size: 60px;
   background-color: rgba(0,0,0,0.5);
   width: 100%;
